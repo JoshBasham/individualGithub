@@ -1,7 +1,7 @@
 package individualGithub;
 
 import java.util.Arrays;
-
+// Author Josh Basham
 public class Main {
 
 	public static void main(String[] args) {
