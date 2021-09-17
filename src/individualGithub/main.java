@@ -1,10 +1,16 @@
 package individualGithub;
 
+import java.util.Arrays;
+
 public class main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		int[] arr = {1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,12,11,10,19};
+		
+		System.out.println(Arrays.toString(arraySort.sortArray(arr)));
+		
 	}
+
 
 }
